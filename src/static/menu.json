@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "text": "Index",
+      "path": "/"
+    },
+    {
+      "text": "Timeline",
+      "path": "/timeline"
+    },
+    {
+      "text": "Models",
+      "path": "/models"
+    },
+    {
+      "text": "Series",
+      "path": "/series"
+    },
+    {
+      "text": "Deconstruct",
+      "path": "/deconstruct"
+    },
+    {
+      "text": "About",
+      "path": "/about"
+    }
+  ]
+}
